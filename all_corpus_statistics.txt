@@ -1,0 +1,24 @@
+litbank
+le nombre de tokens : 224151
+le nombre de phrases : 11744
+Le nombre de négations avec une portée : 3147
+le nombre de négations avec et sans portée : 3238
+27,6% de phrases comprennent une négation
+1,44 négations par 1000 tokens
+___________________________
+payetoncorpus
+le nombre de tokens : 297445
+le nombre de phrases : 17982
+Le nombre de négations avec une portée : 4733
+le nombre de négations avec et sans portée : 5047
+28,1% de phrases comprennent une négation
+1,70 négations par 1000 tokens
+___________________________
+sequoia
+le nombre de tokens : 68921
+le nombre de phrases : 3096
+Le nombre de négations avec une portée : 669
+le nombre de négations avec et sans portée : 673
+21,7% de phrases comprennent une négation
+0,98 négations par 1000 tokens
+___________________________
